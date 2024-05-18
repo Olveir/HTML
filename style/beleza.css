@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/826279228622241815/1151336191480832181/image.png?ex=66436e22&is=66421ca2&hm=f099bc6efba599f66f0e6d14eeb55ba0e61e796f25d708a3d7cc196f8f62992c&);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.conteudo{
+    width: 1300px;
+    height: 600px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.icones{
+    gap: 30px;
+}
+
+a{
+    cursor: pointer;
+}
+
+.texto{
+    font-size: 20px;
+}
